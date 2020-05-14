@@ -1,2 +1,1 @@
-# TinDog
-A short web page design
+TinDog Starting Files
